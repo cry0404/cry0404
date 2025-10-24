@@ -1,13 +1,11 @@
 #!/usr/bin/env python3
-"""
-Script to update README.md with latest blog posts from RSS feed.
-Only displays blog titles, links, and dates - no summaries or author info.
-"""
+
 
 import feedparser
 import re
 import os
 import subprocess
+import urllib.parse
 from datetime import datetime
 from typing import List, Dict
 
@@ -30,9 +28,17 @@ def fetch_latest_posts() -> List[Dict]:
             else:
                 date_str = "Unknown"
             
+            # 正确编码URL，处理空格等特殊字符
+            raw_link = entry.get('link', '#')
+            # 只对URL中需要编码的部分进行编码，避免双重编码
+            if ' ' in raw_link or any(char in raw_link for char in ['[', ']', '(', ')']):
+                encoded_link = urllib.parse.quote(raw_link, safe=':/?#@!$&\'*+,;=')
+            else:
+                encoded_link = raw_link
+            
             posts.append({
                 'title': entry.get('title', 'Untitled'),
-                'link': entry.get('link', '#'),
+                'link': encoded_link,
                 'date': date_str
             })
         
@@ -68,9 +74,17 @@ def fetch_latest_bookmarks() -> List[Dict]:
             else:
                 date_str = "Unknown"
             
+            # 正确编码URL，处理空格等特殊字符
+            raw_link = entry.get('link', '#')
+            # 只对URL中需要编码的部分进行编码，避免双重编码
+            if ' ' in raw_link or any(char in raw_link for char in ['[', ']', '(', ')']):
+                encoded_link = urllib.parse.quote(raw_link, safe=':/?#@!$&\'*+,;=')
+            else:
+                encoded_link = raw_link
+            
             bookmarks.append({
                 'title': entry.get('title', 'Untitled'),
-                'link': entry.get('link', '#'),
+                'link': encoded_link,
                 'date': date_str
             })
         
@@ -96,7 +110,9 @@ def update_readme(posts: List[Dict], bookmarks: List[Dict]):
         blog_section += f"*Auto-updated from [cry4o4n0tfound.cn](https://cry4o4n0tfound.cn)*\n\n"
         
         for post in posts:
-            blog_section += f"- [{post['title']}]({post['link']}) - {post['date']}\n"
+            # 清理标题中的特殊字符，避免Markdown解析问题
+            clean_title = post['title'].replace('[', '\\[').replace(']', '\\]')
+            blog_section += f"- [{clean_title}]({post['link']}) - {post['date']}\n"
         blog_section += "\n"
     
     # 创建书签部分
@@ -106,7 +122,9 @@ def update_readme(posts: List[Dict], bookmarks: List[Dict]):
         bookmark_section += f"*Auto-updated from [bookmark.cry4o4n0tfound.cc](https://bookmark.cry4o4n0tfound.cc)*\n\n"
         
         for bookmark in bookmarks:
-            bookmark_section += f"- [{bookmark['title']}]({bookmark['link']}) - {bookmark['date']}\n"
+            # 清理标题中的特殊字符，避免Markdown解析问题
+            clean_title = bookmark['title'].replace('[', '\\[').replace(']', '\\]')
+            bookmark_section += f"- [{clean_title}]({bookmark['link']}) - {bookmark['date']}\n"
         bookmark_section += "\n"
     
     # 合并两个部分
