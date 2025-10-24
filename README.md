@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="center">
-  <img src="assets/Kurisu.PNG" alt="Kurisu" width="100%">
+  <img src="assets/Kurisu.PNG" alt="Kurisu" width="600">
 </div>
 
 <br>
