@@ -23,10 +23,10 @@ def fetch_latest_posts() -> List[Dict]:
         posts = []
         
         for entry in feed.entries[:MAX_POSTS]:
-            # 解析发布日期
-            published = entry.get('published_parsed')
-            if published:
-                date_str = datetime(*published[:6]).strftime('%Y-%m-%d')
+            # 解析发布日期，优先使用updated字段
+            date_parsed = entry.get('updated_parsed') or entry.get('published_parsed')
+            if date_parsed:
+                date_str = datetime(*date_parsed[:6]).strftime('%Y-%m-%d')
             else:
                 date_str = "Unknown"
             

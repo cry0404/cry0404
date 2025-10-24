@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="center">
-  <img src="assets/icon.png" alt="cry" width="200" height="200">
+  <img src="assets/icon.png" alt="cry" width="120" height="120" style="border-radius: 50%;">
 </div>
 
 You can call me **Cry**, because the initials of my Chinese name are C R Y, I find this interesting, and my friends also call me that.
@@ -16,11 +16,11 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [cry4o4n0tfound.cn](https://cry4o4n0tfound.cn)*
 
-- [Memos 14:-无主题杂记](https://cry4o4n0tfound.cn/blog/Memos%2014%3A-%E6%97%A0%E4%B8%BB%E9%A2%98%E6%9D%82%E8%AE%B0) - Unknown
-- [基于飞书多维表格设计的更新组件方案](https://cry4o4n0tfound.cn/blog/%E5%9F%BA%E4%BA%8E%E9%A3%9E%E4%B9%A6%E5%A4%9A%E7%BB%B4%E8%A1%A8%E6%A0%BC%E8%AE%BE%E8%AE%A1%E7%9A%84%E6%9B%B4%E6%96%B0%E7%BB%84%E4%BB%B6%E6%96%B9%E6%A1%88) - Unknown
-- [Memos 13:-信安作品赛游记](https://cry4o4n0tfound.cn/blog/Memos%2013%3A-%E4%BF%A1%E5%AE%89%E4%BD%9C%E5%93%81%E8%B5%9B%E6%B8%B8%E8%AE%B0) - Unknown
-- [Just for Fun](https://cry4o4n0tfound.cn/blog/Just for Fun) - Unknown
-- [docker大学习1:容器的底层](https://cry4o4n0tfound.cn/blog/docker%E5%A4%A7%E5%AD%A6%E4%B9%A01) - Unknown
+- [Memos 14:-无主题杂记](https://cry4o4n0tfound.cn/blog/Memos%2014%3A-%E6%97%A0%E4%B8%BB%E9%A2%98%E6%9D%82%E8%AE%B0) - 2025-09-26
+- [基于飞书多维表格设计的更新组件方案](https://cry4o4n0tfound.cn/blog/%E5%9F%BA%E4%BA%8E%E9%A3%9E%E4%B9%A6%E5%A4%9A%E7%BB%B4%E8%A1%A8%E6%A0%BC%E8%AE%BE%E8%AE%A1%E7%9A%84%E6%9B%B4%E6%96%B0%E7%BB%84%E4%BB%B6%E6%96%B9%E6%A1%88) - 2025-09-17
+- [Memos 13:-信安作品赛游记](https://cry4o4n0tfound.cn/blog/Memos%2013%3A-%E4%BF%A1%E5%AE%89%E4%BD%9C%E5%93%81%E8%B5%9B%E6%B8%B8%E8%AE%B0) - 2025-08-16
+- [Just for Fun](https://cry4o4n0tfound.cn/blog/Just for Fun) - 2025-08-04
+- [docker大学习1:容器的底层](https://cry4o4n0tfound.cn/blog/docker%E5%A4%A7%E5%AD%A6%E4%B9%A01) - 2025-07-28
 
 ## Recent Bookmarks
 
