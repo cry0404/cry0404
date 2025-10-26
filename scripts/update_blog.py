@@ -131,20 +131,34 @@ def update_readme(posts: List[Dict], bookmarks: List[Dict]):
     combined_section = blog_section + bookmark_section
     
     # 查找并替换内容部分
-    # 使用正则表达式找到博客和书签部分，保留后面的技术栈和统计图表
-    content_pattern = r'## Latest Blog Posts.*?(?=## Tech Stack|## GitHub Stats|$)'
+    # 分别处理博客和书签部分，避免一个失败影响另一个
+    blog_pattern = r'## Latest Blog Posts.*?(?=## Recent Bookmarks|## Tech Stack|## GitHub Stats|$)'
+    bookmark_pattern = r'## Recent Bookmarks.*?(?=## Tech Stack|## GitHub Stats|$)'
     
-    if re.search(content_pattern, content, re.DOTALL):
-        # 如果存在内容部分，替换它
-        new_content = re.sub(content_pattern, combined_section.strip() + '\n\n', content, flags=re.DOTALL)
-    else:
-        # 如果不存在内容部分，在个人介绍后添加
-        intro_pattern = r'(And I have a blog, you can learn more about me from here 👉 \[cry4o4n0tfound\.cn\]\(https://cry4o4n0tfound\.cn\)\.\n\n)'
-        if re.search(intro_pattern, content, re.DOTALL):
-            new_content = re.sub(intro_pattern, r'\1' + combined_section, content)
+    new_content = content
+    
+    # 更新博客部分
+    if posts:
+        if re.search(blog_pattern, new_content, re.DOTALL):
+            new_content = re.sub(blog_pattern, blog_section.strip() + '\n\n', new_content, flags=re.DOTALL)
         else:
-            # 如果找不到合适的位置，在文件末尾添加
-            new_content = content + '\n\n' + combined_section
+            # 如果不存在博客部分，在个人介绍后添加
+            intro_pattern = r'(And I have a blog, you can learn more about me from here 👉 \[cry4o4n0tfound\.cn\]\(https://cry4o4n0tfound\.cn\)\.\n\n)'
+            if re.search(intro_pattern, new_content, re.DOTALL):
+                new_content = re.sub(intro_pattern, r'\1' + blog_section, new_content)
+            else:
+                new_content = new_content + '\n\n' + blog_section
+    
+    # 更新书签部分
+    if bookmarks:
+        if re.search(bookmark_pattern, new_content, re.DOTALL):
+            new_content = re.sub(bookmark_pattern, bookmark_section.strip() + '\n\n', new_content, flags=re.DOTALL)
+        else:
+            # 如果不存在书签部分，在博客部分后添加
+            if posts:
+                new_content = new_content.replace(blog_section.strip(), blog_section.strip() + '\n\n' + bookmark_section.strip())
+            else:
+                new_content = new_content + '\n\n' + bookmark_section
     
     # 写入更新后的内容
     with open(README_PATH, 'w', encoding='utf-8') as f:
