@@ -1,5 +1,8 @@
 name: Update Blog Posts
 
+permissions:
+  contents: write
+  
 on:
   schedule:
     # 每天 UTC 时间 12:00 运行（北京时间 20:00）
@@ -14,7 +17,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.SELF_INTRODUCTION_GITHUB_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
+        persist-credentials: true
         
     - name: Set up uv
       uses: astral-sh/setup-uv@v3
