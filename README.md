@@ -28,11 +28,11 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [bookmark.cry4o4n0tfound.cc](https://bookmark.cry4o4n0tfound.cc)*
 
-- [How modern browsers work - by Addy Osmani - Elevate](https://addyo.substack.com/p/how-modern-browsers-work) - 2025-10-23
-- [改进视觉设计的实用指南 --- The Practical Guide to Improving Visual Design](https://blog.designary.com/p/the-practical-guide-to-improving) - 2025-10-22
-- [Prefer table driven tests | Dave Cheney](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests) - 2025-10-18
-- [Go 的几种函数传参模式 | Piglei](https://www.piglei.com/articles/go-func-argument-patterns/) - 2025-10-17
-- [编程十年的感悟 | 菠萝油与天光墟](https://ramsayleung.github.io/zh/post/2024/%E7%BC%96%E7%A8%8B%E5%8D%81%E5%B9%B4%E7%9A%84%E6%84%9F%E6%82%9F/) - 2025-10-17
+- [API 设计指南  |  Cloud API Design Guide  |  Google Cloud Documentation](https://docs.cloud.google.com/apis/design?hl=zh-cn) - 2025-11-08
+- [PostgreSQL 参考资料](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0MDQ4MTM5NQ==&action=getalbum&album_id=2977746367114936326#wechat_redirect) - 2025-11-06
+- [认清自己，和懒得糊涂同样都是活着 – 莫比乌斯](https://onojyun.com/2025/11/05/%e8%ae%a4%e6%b8%85%e8%87%aa%e5%b7%b1%ef%bc%8c%e5%92%8c%e6%87%92%e5%be%97%e7%b3%8a%e6%b6%82%e5%90%8c%e6%a0%b7%e9%83%bd%e6%98%af%e6%b4%bb%e7%9d%80/) - 2025-11-05
+- [Linux性能优化实战](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/Linux%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%AE%9E%E6%88%98) - 2025-11-04
+- [上下文工程 | Chris Loy | 宝玉的分享](https://baoyu.io/translations/context-engineering-part-of-ml) - 2025-11-03
 
 ## Tech Stack
 
