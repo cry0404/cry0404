@@ -18,21 +18,21 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [cry4o4n0tfound.cn](https://cry4o4n0tfound.cn)*
 
+- [Memos 15:-两次黑客松](https://cry4o4n0tfound.cn/blog/Memos%2015%3A-%E4%B8%A4%E6%AC%A1%E9%BB%91%E5%AE%A2%E6%9D%BE) - 2025-11-30
 - [人与大模型](https://cry4o4n0tfound.cn/blog/%E4%BA%BA%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B) - 2025-10-26
 - [Memos 14:-无主题杂记](https://cry4o4n0tfound.cn/blog/Memos%2014%3A-%E6%97%A0%E4%B8%BB%E9%A2%98%E6%9D%82%E8%AE%B0) - 2025-09-26
 - [基于飞书多维表格设计的更新组件方案](https://cry4o4n0tfound.cn/blog/%E5%9F%BA%E4%BA%8E%E9%A3%9E%E4%B9%A6%E5%A4%9A%E7%BB%B4%E8%A1%A8%E6%A0%BC%E8%AE%BE%E8%AE%A1%E7%9A%84%E6%9B%B4%E6%96%B0%E7%BB%84%E4%BB%B6%E6%96%B9%E6%A1%88) - 2025-09-17
 - [Memos 13:-信安作品赛游记](https://cry4o4n0tfound.cn/blog/Memos%2013%3A-%E4%BF%A1%E5%AE%89%E4%BD%9C%E5%93%81%E8%B5%9B%E6%B8%B8%E8%AE%B0) - 2025-08-16
-- [Just for Fun](https://cry4o4n0tfound.cn/blog/Just%20for%20Fun) - 2025-08-04
 
 ## Recent Bookmarks
 
 *Auto-updated from [bookmark.cry4o4n0tfound.cc](https://bookmark.cry4o4n0tfound.cc)*
 
-- [API 设计指南  |  Cloud API Design Guide  |  Google Cloud Documentation](https://docs.cloud.google.com/apis/design?hl=zh-cn) - 2025-11-08
-- [PostgreSQL 参考资料](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0MDQ4MTM5NQ==&action=getalbum&album_id=2977746367114936326#wechat_redirect) - 2025-11-06
-- [认清自己，和懒得糊涂同样都是活着 – 莫比乌斯](https://onojyun.com/2025/11/05/%e8%ae%a4%e6%b8%85%e8%87%aa%e5%b7%b1%ef%bc%8c%e5%92%8c%e6%87%92%e5%be%97%e7%b3%8a%e6%b6%82%e5%90%8c%e6%a0%b7%e9%83%bd%e6%98%af%e6%b4%bb%e7%9d%80/) - 2025-11-05
-- [Linux性能优化实战](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/Linux%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%AE%9E%E6%88%98) - 2025-11-04
-- [上下文工程 | Chris Loy | 宝玉的分享](https://baoyu.io/translations/context-engineering-part-of-ml) - 2025-11-03
+- [gorm 框架使用教程](https://mp.weixin.qq.com/s/plzG1mCK8yZwVQOSKZi2XQ) - 2025-11-30
+- [Golang sql 标准库源码解析](https://mp.weixin.qq.com/s/ojDRfrotU8ByOTIYFZxF0g) - 2025-11-30
+- [Golang mysql 驱动源码解析](https://mp.weixin.qq.com/s/V0HFl0NJFbGS_InTURzMLQ) - 2025-11-30
+- [温故知新——Golang GMP 万字洗髓经](https://mp.weixin.qq.com/s/BR6SO7bQF4UXQoRdEjorAg) - 2025-11-29
+- [B-Trees: Why Every Database Uses Them - by Mehmet Gökçe](https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them) - 2025-11-28
 
 ## Tech Stack
 
