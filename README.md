@@ -43,9 +43,5 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cry0404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
-</div>
-
-<div align="center">
   <img src="https://ghchart.rshah.org/00D9FF/cry0404" alt="GitHub Contribution Chart" />
 </div>
