@@ -3,7 +3,6 @@
 
 import feedparser
 import re
-import os
 import subprocess
 import urllib.parse
 from datetime import datetime
@@ -50,7 +49,6 @@ def fetch_latest_posts() -> List[Dict]:
 def fetch_latest_bookmarks() -> List[Dict]:
     """Fetch latest bookmarks from RSS feed"""
     try:
-        # 使用curl命令获取RSS内容，避免SSL问题
         result = subprocess.run(
             ['curl', '-k', '-s', BOOKMARK_RSS_URL],
             capture_output=True,
@@ -127,8 +125,7 @@ def update_readme(posts: List[Dict], bookmarks: List[Dict]):
             bookmark_section += f"- [{clean_title}]({bookmark['link']}) - {bookmark['date']}\n"
         bookmark_section += "\n"
     
-    # 合并两个部分
-    combined_section = blog_section + bookmark_section
+
     
     # 查找并替换内容部分
     # 分别处理博客和书签部分，避免一个失败影响另一个

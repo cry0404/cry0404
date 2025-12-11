@@ -18,21 +18,21 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [cry4o4n0tfound.cn](https://cry4o4n0tfound.cn)*
 
+- [我如何使用 Claude Code](https://cry4o4n0tfound.cn/blog/%E6%88%91%E7%9A%84Claude%20Code%20%E4%BD%BF%E7%94%A8%E6%96%B9%E6%A1%88) - 2025-12-09
 - [Memos 15:-两次黑客松](https://cry4o4n0tfound.cn/blog/Memos%2015%3A-%E4%B8%A4%E6%AC%A1%E9%BB%91%E5%AE%A2%E6%9D%BE) - 2025-11-30
 - [人与大模型](https://cry4o4n0tfound.cn/blog/%E4%BA%BA%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B) - 2025-10-26
 - [Memos 14:-无主题杂记](https://cry4o4n0tfound.cn/blog/Memos%2014%3A-%E6%97%A0%E4%B8%BB%E9%A2%98%E6%9D%82%E8%AE%B0) - 2025-09-26
 - [基于飞书多维表格设计的更新组件方案](https://cry4o4n0tfound.cn/blog/%E5%9F%BA%E4%BA%8E%E9%A3%9E%E4%B9%A6%E5%A4%9A%E7%BB%B4%E8%A1%A8%E6%A0%BC%E8%AE%BE%E8%AE%A1%E7%9A%84%E6%9B%B4%E6%96%B0%E7%BB%84%E4%BB%B6%E6%96%B9%E6%A1%88) - 2025-09-17
-- [Memos 13:-信安作品赛游记](https://cry4o4n0tfound.cn/blog/Memos%2013%3A-%E4%BF%A1%E5%AE%89%E4%BD%9C%E5%93%81%E8%B5%9B%E6%B8%B8%E8%AE%B0) - 2025-08-16
 
 ## Recent Bookmarks
 
 *Auto-updated from [bookmark.cry4o4n0tfound.cc](https://bookmark.cry4o4n0tfound.cc)*
 
-- [gorm 框架使用教程](https://mp.weixin.qq.com/s/plzG1mCK8yZwVQOSKZi2XQ) - 2025-11-30
-- [Golang sql 标准库源码解析](https://mp.weixin.qq.com/s/ojDRfrotU8ByOTIYFZxF0g) - 2025-11-30
-- [Golang mysql 驱动源码解析](https://mp.weixin.qq.com/s/V0HFl0NJFbGS_InTURzMLQ) - 2025-11-30
-- [温故知新——Golang GMP 万字洗髓经](https://mp.weixin.qq.com/s/BR6SO7bQF4UXQoRdEjorAg) - 2025-11-29
-- [B-Trees: Why Every Database Uses Them - by Mehmet Gökçe](https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them) - 2025-11-28
+- [Writing a good CLAUDE.md | HumanLayer Blog](https://www.humanlayer.dev/blog/writing-a-good-claude-md) - 2025-12-07
+- [Build 一个最小的 Redis Docker Image | 卡瓦邦噶！](https://www.kawabangga.com/posts/4411) - 2025-12-06
+- [A system to organise your life • Johnny.Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/) - 2025-12-06
+- [Go 语言的编程哲学](https://www.geedea.pro/essays/go-philosophy/) - 2025-12-04
+- [万字长文漫谈分布式事务实现原理](https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484585&idx=1&sn=b5ee56c2334e3cf4e9a1d8d9b54cd02c&chksm=c10c4a77f67bc3616a0472a36b6d002889a81bb04670449785435ace2999591abf7329d5baa3&scene=21#wechat_redirect) - 2025-12-03
 
 ## Tech Stack
 
