@@ -20,9 +20,9 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 - [2025：链接](https://cry4o4n0tfound.cn/blog/2025%20%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93) - 2025-12-31
 - [我如何使用 Claude Code](https://cry4o4n0tfound.cn/blog/%E6%88%91%E7%9A%84Claude%20Code%20%E4%BD%BF%E7%94%A8%E6%96%B9%E6%A1%88) - 2025-12-09
-- [Memos 15:-两次黑客松](https://cry4o4n0tfound.cn/blog/Memos%2015%3A-%E4%B8%A4%E6%AC%A1%E9%BB%91%E5%AE%A2%E6%9D%BE) - 2025-11-30
-- [人与大模型](https://cry4o4n0tfound.cn/blog/%E4%BA%BA%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B) - 2025-10-26
-- [Memos 14:-无主题杂记](https://cry4o4n0tfound.cn/blog/Memos%2014%3A-%E6%97%A0%E4%B8%BB%E9%A2%98%E6%9D%82%E8%AE%B0) - 2025-09-26
+- [Memos 15:-两次黑客松](https://cry4o4n0tfound.cn/blog/Memos%2015:-%E4%B8%A4%E6%AC%A1%E9%BB%91%E5%AE%A2%E6%9D%BE) - 2025-11-30
+- [人与大模型](https://cry4o4n0tfound.cn/blog/人与大模型) - 2025-10-26
+- [Memos 14:-无主题杂记](https://cry4o4n0tfound.cn/blog/Memos%2014:-%E6%97%A0%E4%B8%BB%E9%A2%98%E6%9D%82%E8%AE%B0) - 2025-09-26
 
 ## Recent Bookmarks
 
