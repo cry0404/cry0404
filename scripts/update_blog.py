@@ -3,10 +3,13 @@
 
 import feedparser
 import re
-import subprocess
 import urllib.parse
+import warnings
 from datetime import datetime
 from typing import List, Dict
+
+import requests
+import urllib3
 
 BLOG_RSS_URL = "https://cry4o4n0tfound.cn/atom.xml"
 BOOKMARK_RSS_URL = "https://bookmark.cry4o4n0tfound.cc/feeds/shared"
@@ -49,19 +52,13 @@ def fetch_latest_posts() -> List[Dict]:
 def fetch_latest_bookmarks() -> List[Dict]:
     """Fetch latest bookmarks from RSS feed"""
     try:
-        result = subprocess.run(
-            ['curl', '-k', '-s', BOOKMARK_RSS_URL],
-            capture_output=True,
-            text=True,
-            timeout=30
-        )
-        
-        if result.returncode != 0:
-            print(f"Error fetching bookmark RSS feed: {result.stderr}")
-            return []
-        
+        # 禁用 SSL 证书过期警告（书签服务证书已过期但内容可用）
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        response = requests.get(BOOKMARK_RSS_URL, verify=False, timeout=30)
+        response.raise_for_status()
+
         # 解析RSS内容
-        feed = feedparser.parse(result.stdout)
+        feed = feedparser.parse(response.text)
         bookmarks = []
         
         for entry in feed.entries[:MAX_POSTS]:

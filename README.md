@@ -28,11 +28,11 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [bookmark.cry4o4n0tfound.cc](https://bookmark.cry4o4n0tfound.cc)*
 
-- [Writing a good CLAUDE.md | HumanLayer Blog](https://www.humanlayer.dev/blog/writing-a-good-claude-md) - 2025-12-07
-- [Build 一个最小的 Redis Docker Image | 卡瓦邦噶！](https://www.kawabangga.com/posts/4411) - 2025-12-06
-- [A system to organise your life • Johnny.Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/) - 2025-12-06
-- [Go 语言的编程哲学](https://www.geedea.pro/essays/go-philosophy/) - 2025-12-04
-- [万字长文漫谈分布式事务实现原理](https://mp.weixin.qq.com/s?__biz=MzkxMjQzMjA0OQ==&mid=2247484585&idx=1&sn=b5ee56c2334e3cf4e9a1d8d9b54cd02c&chksm=c10c4a77f67bc3616a0472a36b6d002889a81bb04670449785435ace2999591abf7329d5baa3&scene=21#wechat_redirect) - 2025-12-03
+- [一份关于 AI 编程的简明行为指南 | Piglei](https://www.piglei.com/articles/a-simple-ai-coding-guide-for-engineers/) - 2026-03-22
+- [Agent：原理、架构与工程实践](https://x.com/HiTw93/article/2034627967926825175) - 2026-03-21
+- [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/) - 2026-03-14
+- [你不知道的 Claude Code：架构、治理与工程实践 - Tw93](https://tw93.fun/2026-03-12/claude.html) - 2026-03-14
+- [用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更 | 宝玉的分享](https://baoyu.io/blog/2026-02-13/claude-code-auto-commit) - 2026-02-19
 
 ## Tech Stack
 
