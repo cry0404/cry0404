@@ -18,11 +18,11 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [cry4o4n0tfound.cn](https://cry4o4n0tfound.cn)*
 
+- [人与大模型Ⅱ](https://cry4o4n0tfound.cn/blog/人与大模型Ⅱ) - 2026-04-11
 - [在床上](https://cry4o4n0tfound.cn/blog/在床上) - 2026-02-14
 - [一月志：很忙，但不知道在忙什么](https://cry4o4n0tfound.cn/blog/一月志) - 2026-02-07
 - [2025：链接](https://cry4o4n0tfound.cn/blog/2025%20%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93) - 2025-12-31
 - [我如何使用 Claude Code](https://cry4o4n0tfound.cn/blog/%E6%88%91%E7%9A%84Claude%20Code%20%E4%BD%BF%E7%94%A8%E6%96%B9%E6%A1%88) - 2025-12-09
-- [Memos 15:-两次黑客松](https://cry4o4n0tfound.cn/blog/Memos%2015:-%E4%B8%A4%E6%AC%A1%E9%BB%91%E5%AE%A2%E6%9D%BE) - 2025-11-30
 
 ## Recent Bookmarks
 
