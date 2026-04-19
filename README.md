@@ -28,11 +28,11 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [bookmark.cry4o4n0tfound.cc](https://bookmark.cry4o4n0tfound.cc)*
 
+- [Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html) - 2026-04-17
+- [漫想与杂谈 Iss.06 · 清明：连接、边界与意义 - 伏枥之间](https://leehenry.top/posts/words_in_wildness/ww-vol08/) - 2026-04-15
+- [你不知道的大模型训练：原理、路径与新实践 - Tw93](https://tw93.fun/2026-04-03/llm.html) - 2026-04-04
+- [Harness design for long-running application development \ Anthropic](https://www.anthropic.com/engineering/harness-design-long-running-apps) - 2026-03-28
 - [一份关于 AI 编程的简明行为指南 | Piglei](https://www.piglei.com/articles/a-simple-ai-coding-guide-for-engineers/) - 2026-03-22
-- [Agent：原理、架构与工程实践](https://x.com/HiTw93/article/2034627967926825175) - 2026-03-21
-- [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/) - 2026-03-14
-- [你不知道的 Claude Code：架构、治理与工程实践 - Tw93](https://tw93.fun/2026-03-12/claude.html) - 2026-03-14
-- [用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更 | 宝玉的分享](https://baoyu.io/blog/2026-02-13/claude-code-auto-commit) - 2026-02-19
 
 ## Tech Stack
 
