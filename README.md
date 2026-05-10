@@ -18,21 +18,21 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [cry4o4n0tfound.cn](https://cry4o4n0tfound.cn)*
 
+- [四月志：next station!](https://cry4o4n0tfound.cn/blog/%E5%9B%9B%E6%9C%88%E5%BF%97/) - 2026-05-05
 - [人与大模型Ⅱ](https://cry4o4n0tfound.cn/blog/%E4%BA%BA%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E2%85%B1/) - 2026-04-11
 - [在床上](https://cry4o4n0tfound.cn/blog/%E5%9C%A8%E5%BA%8A%E4%B8%8A/) - 2026-02-14
 - [一月志：很忙，但不知道在忙什么](https://cry4o4n0tfound.cn/blog/%E4%B8%80%E6%9C%88%E5%BF%97/) - 2026-02-07
 - [2025：链接](https://cry4o4n0tfound.cn/blog/2025-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/) - 2025-12-31
-- [我如何使用 Claude Code](https://cry4o4n0tfound.cn/blog/%E6%88%91%E7%9A%84claude-code-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%A1%88/) - 2025-12-09
 
 ## Recent Bookmarks
 
 *Auto-updated from [bookmark.cry4o4n0tfound.cc](https://bookmark.cry4o4n0tfound.cc)*
 
+- [包含关键字 Transformer升级之路 的文章 - 科学空间|Scientific Spaces](https://spaces.ac.cn/search/Transformer%E5%8D%87%E7%BA%A7%E4%B9%8B%E8%B7%AF/) - 2026-05-03
 - [How To Scale Your Model](https://jax-ml.github.io/scaling-book/) - 2026-04-22
 - [万字长文讲透LLM核心：Transformer架构原理解析](https://mp.weixin.qq.com/s/8m7HlMBDIC1ekMDnb5F8ww) - 2026-04-20
 - [Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html) - 2026-04-17
 - [漫想与杂谈 Iss.06 · 清明：连接、边界与意义 - 伏枥之间](https://leehenry.top/posts/words_in_wildness/ww-vol08/) - 2026-04-15
-- [你不知道的大模型训练：原理、路径与新实践 - Tw93](https://tw93.fun/2026-04-03/llm.html) - 2026-04-04
 
 ## Tech Stack
 
