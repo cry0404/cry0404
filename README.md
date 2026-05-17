@@ -28,11 +28,11 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [bookmark.cry4o4n0tfound.cc](https://bookmark.cry4o4n0tfound.cc)*
 
+- [使用类型保证领域不变量 | Luca Palmieri --- Using Types To Guarantee Domain Invariants | Luca Palmieri](https://www.lpalmieri.com/posts/2020-12-11-zero-to-production-6-domain-modelling/) - 2026-05-14
+- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) - 2026-05-14
+- [How Anthropic's cybersecurity team built a threat detection platform with Claude Code | Claude](https://claude.com/blog/how-anthropic-uses-claude-cybersecurity) - 2026-05-13
+- [Agent Skill规范、构建与设计模式](https://mp.weixin.qq.com/s/LCpiLyLnRn5WyuHpribyHw) - 2026-05-12
 - [包含关键字 Transformer升级之路 的文章 - 科学空间|Scientific Spaces](https://spaces.ac.cn/search/Transformer%E5%8D%87%E7%BA%A7%E4%B9%8B%E8%B7%AF/) - 2026-05-03
-- [How To Scale Your Model](https://jax-ml.github.io/scaling-book/) - 2026-04-22
-- [万字长文讲透LLM核心：Transformer架构原理解析](https://mp.weixin.qq.com/s/8m7HlMBDIC1ekMDnb5F8ww) - 2026-04-20
-- [Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html) - 2026-04-17
-- [漫想与杂谈 Iss.06 · 清明：连接、边界与意义 - 伏枥之间](https://leehenry.top/posts/words_in_wildness/ww-vol08/) - 2026-04-15
 
 ## Tech Stack
 
