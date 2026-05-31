@@ -28,11 +28,11 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [bookmark.cry4o4n0tfound.cc](https://bookmark.cry4o4n0tfound.cc)*
 
-- [使用类型保证领域不变量 | Luca Palmieri --- Using Types To Guarantee Domain Invariants | Luca Palmieri](https://www.lpalmieri.com/posts/2020-12-11-zero-to-production-6-domain-modelling/) - 2026-05-14
-- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) - 2026-05-14
-- [How Anthropic's cybersecurity team built a threat detection platform with Claude Code | Claude](https://claude.com/blog/how-anthropic-uses-claude-cybersecurity) - 2026-05-13
-- [Agent Skill规范、构建与设计模式](https://mp.weixin.qq.com/s/LCpiLyLnRn5WyuHpribyHw) - 2026-05-12
-- [包含关键字 Transformer升级之路 的文章 - 科学空间|Scientific Spaces](https://spaces.ac.cn/search/Transformer%E5%8D%87%E7%BA%A7%E4%B9%8B%E8%B7%AF/) - 2026-05-03
+- [最后一次技术面试。今天，让我们为……干一杯 | 作者：Steve Yegge | 2026 年 5 月 | Medium --- The Last Technical Interview. Today we will pour one out for the… | by Steve Yegge | May, 2026 | Medium](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564) - 2026-05-30
+- [Linux epoll 之 LT & ET 模式精粹|Strike Freedom](https://strikefreedom.top/archives/linux-epoll-with-level-triggering-and-edge-triggering#%E5%AF%BC%E8%A8%80) - 2026-05-27
+- [epoll 疯狂之所在。我上一篇文章涵盖了…… | 作者：Cindy Sridharan | Medium --- The method to epoll’s madness. My previous post covered the… | by Cindy Sridharan | Medium](https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642) - 2026-05-26
+- [God Damn AI is making me dumb | James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/) - 2026-05-24
+- [The undercover generalist | Adolfo Ochagavía](https://ochagavia.nl/blog/the-undercover-generalist/) - 2026-05-24
 
 ## Tech Stack
 
