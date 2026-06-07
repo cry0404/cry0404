@@ -28,11 +28,11 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [bookmark.cry4o4n0tfound.cc](https://bookmark.cry4o4n0tfound.cc)*
 
+- [Custom Errors · Cloudflare Rules docs](https://developers.cloudflare.com/rules/custom-errors/) - 2026-06-04
 - [最后一次技术面试。今天，让我们为……干一杯 | 作者：Steve Yegge | 2026 年 5 月 | Medium --- The Last Technical Interview. Today we will pour one out for the… | by Steve Yegge | May, 2026 | Medium](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564) - 2026-05-30
 - [Linux epoll 之 LT & ET 模式精粹|Strike Freedom](https://strikefreedom.top/archives/linux-epoll-with-level-triggering-and-edge-triggering#%E5%AF%BC%E8%A8%80) - 2026-05-27
 - [epoll 疯狂之所在。我上一篇文章涵盖了…… | 作者：Cindy Sridharan | Medium --- The method to epoll’s madness. My previous post covered the… | by Cindy Sridharan | Medium](https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642) - 2026-05-26
 - [God Damn AI is making me dumb | James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/) - 2026-05-24
-- [The undercover generalist | Adolfo Ochagavía](https://ochagavia.nl/blog/the-undercover-generalist/) - 2026-05-24
 
 ## Tech Stack
 
