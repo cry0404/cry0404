@@ -28,11 +28,11 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [bookmark.cry4o4n0tfound.cc](https://bookmark.cry4o4n0tfound.cc)*
 
+- [直接用 Go，别废话 - Blain Smith --- Just Fucking Use Go - Blain Smith](https://blainsmith.com/articles/just-fucking-use-go/) - 2026-07-10
 - [我为什么不再与人争论 | 一个极客的页面 --- Why I Stopped Arguing With People | A Geek’s Page](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html) - 2026-07-03
 - [花束般的恋爱](https://movie.douban.com/subject/34874432/) - 2026-06-28
 - [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html) - 2026-06-28
 - [别再像对待 Web 服务器那样对待你的 LLMs | Akamai --- Stop Treating Your LLMs Like Web Servers | Akamai](https://www.akamai.com/blog/ai/stop-treating-llms-like-web-servers) - 2026-06-23
-- [DAN KOE on X: "How to fix your entire life in 1 day" / X](https://x.com/thedankoe/status/2010751592346030461?s=46) - 2026-06-20
 
 ## Tech Stack
 
