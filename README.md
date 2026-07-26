@@ -28,11 +28,11 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [bookmark.cry4o4n0tfound.cc](https://bookmark.cry4o4n0tfound.cc)*
 
+- [\[译\] 写给工程师：关于证书（certificate）和公钥基础设施（PKI）的一切（SmallStep, 2018）](https://arthurchiao.art/blog/everything-about-pki-zh/) - 2026-07-22
 - [Linux system calls](https://www.matheusmoreira.com/articles/linux-system-calls) - 2026-07-18
 - [采访马特乌斯·莫雷拉 --- Interview With Matheus Moreira](https://alexalejandre.com/interviews/interview-with-matheus-moreira/) - 2026-07-18
 - [当 AI 拿走一切之后 | Airing](https://ursb.me/posts/after-ai-takes-everything/) - 2026-07-12
 - [直接用 Go，别废话 - Blain Smith --- Just Fucking Use Go - Blain Smith](https://blainsmith.com/articles/just-fucking-use-go/) - 2026-07-10
-- [我为什么不再与人争论 | 一个极客的页面 --- Why I Stopped Arguing With People | A Geek’s Page](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html) - 2026-07-03
 
 ## Tech Stack
 
