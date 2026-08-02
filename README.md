@@ -28,11 +28,11 @@ And I have a blog, you can learn more about me from here 👉 [cry4o4n0tfound.cn
 
 *Auto-updated from [bookmark.cry4o4n0tfound.cc](https://bookmark.cry4o4n0tfound.cc)*
 
+- [Hecto: Build your own text editor in Rust | Hacker News](https://news.ycombinator.com/item?id=25809288) - 2026-07-29
+- [Miguel Salinas on X: "We rewrote our agent to run entirely in a Durable Object with Pi, Agents SDK and Code Mode" / X](https://x.com/vercantez/status/2082138839888589200) - 2026-07-29
+- [Upgrading the Cloudflare China Network: better performance and security through product innovation and partnership | The Cloudflare Blog](https://blog.cloudflare.com/upgrading-the-cloudflare-china-network/) - 2026-07-28
+- [终端模拟器剖析 :: Aram Drevekenin - 终端开发者与 Zellij 创建者 --- Anatomy of a Terminal Emulator :: Aram Drevekenin - Terminal Developer & Creator of Zellij](https://poor.dev/blog/terminal-anatomy/) - 2026-07-26
 - [\[译\] 写给工程师：关于证书（certificate）和公钥基础设施（PKI）的一切（SmallStep, 2018）](https://arthurchiao.art/blog/everything-about-pki-zh/) - 2026-07-22
-- [Linux system calls](https://www.matheusmoreira.com/articles/linux-system-calls) - 2026-07-18
-- [采访马特乌斯·莫雷拉 --- Interview With Matheus Moreira](https://alexalejandre.com/interviews/interview-with-matheus-moreira/) - 2026-07-18
-- [当 AI 拿走一切之后 | Airing](https://ursb.me/posts/after-ai-takes-everything/) - 2026-07-12
-- [直接用 Go，别废话 - Blain Smith --- Just Fucking Use Go - Blain Smith](https://blainsmith.com/articles/just-fucking-use-go/) - 2026-07-10
 
 ## Tech Stack
 
